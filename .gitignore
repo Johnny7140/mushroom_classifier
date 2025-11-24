@@ -1,0 +1,14 @@
+# Ignore virtual environments
+mushroom_env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Streamlit logs
+.streamlit/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
